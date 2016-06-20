@@ -1,0 +1,5 @@
+<root>
+  <item name='java.util.TreeSet java.util.NavigableSet&lt;E&gt; subSet(E, boolean, E, boolean)'>
+    <annotation name='org.jetbrains.annotations.NotNull'/>
+  </item>
+</root>
